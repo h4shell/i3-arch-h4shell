@@ -1,6 +1,6 @@
 #!bash
 
-sudo pacman -Sy i3status-rust nitrogen ttf-font-awesome proton
+sudo pacman -Sy i3status-rust nitrogen ttf-font-awesome picom
 
 #backup
 cp -r $HOME/.config/i3 $HOME/.config/i3_backup
