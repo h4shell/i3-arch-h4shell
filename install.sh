@@ -1,3 +1,4 @@
+#test
 sudo pacman -Sy i3status-rust nitrogen ttf-font-awesome picom terminator network-manager-applet volumeicon
 
 #backup
